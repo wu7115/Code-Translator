@@ -81,6 +81,7 @@ trainer.train()
 
 # Push to Hugging Face
 trainer.model.push_to_hub("my-model-name")
+```
 
 ## Model Access
 
